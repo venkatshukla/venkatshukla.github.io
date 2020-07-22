@@ -296,7 +296,7 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 const environment = {
     production: false,
-    apiEndPoint: 'http://localhost:3000/v1/',
+    apiEndPoint: 'https://venkatshukla.tk/v1/',
     advertiserIds: {
         google: '5f187ce89f1106612317a4f8',
         mediaNet: '5f187ce89f1106612317a4f8'
